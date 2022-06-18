@@ -1,0 +1,10 @@
+.Countries{
+    background-color: skyblue;
+    margin: 10px;
+   
+}
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
